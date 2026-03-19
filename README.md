@@ -1,5 +1,12 @@
 # 💫 About Me:
-## 👋 About Me<br><br>🌍 I’m a Geography and Geoinformatics graduate with a strong interest in GIS, Remote Sensing, and Spatial Analysis.<br><br>🗺️ I have experience working on projects like industrial region analysis and GIS-based mapping using tools like ArcGIS and QGIS.<br><br>---<br><br>🔭 I’m currently working on  <br>GIS-based projects and improving my spatial data analysis skills  <br><br>👯 I’m looking to collaborate on  <br>GIS projects, mapping, and spatial analysis  <br><br>🤝 I’m looking for help with  <br>Advanced GIS techniques and Python for geospatial analysis  <br><br>🌱 I’m currently learning  <br>Python for GIS, Remote Sensing, and advanced spatial analysis  <br><br>💬 Ask me about  <br>GIS, maps, spatial analysis, and geography  <br><br>⚡ Fun fact  <br>I enjoy analyzing maps and understanding how geography shapes real-world development 🌍
+🌍 I’m a Geography and Geoinformatics graduate interested in GIS, Remote Sensing, and Spatial Analysis.
+🗺️ I have experience in industrial region analysis and GIS-based mapping using ArcGIS and QGIS.
+🔭 I’m currently working on GIS projects and improving spatial data analysis skills.
+👯 I’m looking to collaborate on GIS, mapping, and spatial analysis projects.
+🤝 I’m looking for help with advanced GIS techniques and Python for geospatial analysis.
+🌱 I’m currently learning Python for GIS and advanced spatial analysis.
+💬 Ask me about GIS, maps, spatial analysis, and geography.
+⚡ Fun fact: I enjoy analyzing maps and understanding how geography shapes real-world development 🌍
 
 
 ## 🌐 Socials:
